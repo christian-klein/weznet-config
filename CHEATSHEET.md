@@ -1,6 +1,7 @@
 
-|Leader | ctrl+a+[|||
+|Leader | ctrl+a|||
 |--|--|--|--|
+|Enter Copy Mode | ctrl+a+[|||
 |--> Enter Cell selection mode| v |Tab Navigator|ctrl+a+w|
 |--> Enter Line selection mode| shift+V |Create Tab|ctrl+a+c|
 |--> Enter Rectangular selection mode| ctrl+V |Rename Tab|ctrl+a+,|
